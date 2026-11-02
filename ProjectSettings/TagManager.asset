@@ -6,6 +6,9 @@ TagManager:
   tags:
   - PhysicsObject
   - DoorKey1
+  - Papa Food
+  - ChildFood
+  - MommaFood
   layers:
   - Default
   - TransparentFX

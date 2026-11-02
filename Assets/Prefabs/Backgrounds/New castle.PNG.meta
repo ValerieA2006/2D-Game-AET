@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: f82594e97c5e9bd40b7e89696a071985
+guid: 7320bc8863cc0c446b46283e03ec0255
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9086009851594916038
-    second: Castle Main_0
-  - first:
-      213: 6984379663131939165
-    second: Castle Main_1
-  - first:
-      213: 4323933050970644071
-    second: Castle Main_2
+      213: 6435741878135977280
+    second: New castle_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Castle Main_0
+      name: New castle_0
       rect:
         serializedVersion: 2
-        x: 619
-        y: 1297
-        width: 80
-        height: 54
+        x: 0
+        y: 0
+        width: 500
+        height: 428
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,52 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6c0c30ef1ddf71e70800000000000000
-      internalID: 9086009851594916038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Castle Main_1
-      rect:
-        serializedVersion: 2
-        x: 623
-        y: 1231
-        width: 72
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d51117d7c408de060800000000000000
-      internalID: 6984379663131939165
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Castle Main_2
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 35
-        width: 2080
-        height: 1068
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 76e1daf5332b10c30800000000000000
-      internalID: 4323933050970644071
+      spriteID: 0457660e329505950800000000000000
+      internalID: 6435741878135977280
       vertices: []
       indices: 
       edges: []
@@ -198,9 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Castle Main_0: 9086009851594916038
-      Castle Main_1: 6984379663131939165
-      Castle Main_2: 4323933050970644071
+      New castle_0: 6435741878135977280
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,733 @@
+fileFormatVersion: 2
+guid: d2f221ca68cfaa748a9fd5dbc1639869
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1483487009324682135
+    second: Inside GoldiHouse_0
+  - first:
+      213: 6531556643636348026
+    second: Inside GoldiHouse_1
+  - first:
+      213: 3056147211851953169
+    second: Inside GoldiHouse_2
+  - first:
+      213: 4753022969316502361
+    second: Inside GoldiHouse_3
+  - first:
+      213: -6670116877237846822
+    second: Inside GoldiHouse_4
+  - first:
+      213: 297311590393403430
+    second: Inside GoldiHouse_5
+  - first:
+      213: -6975215752722443521
+    second: Inside GoldiHouse_6
+  - first:
+      213: -8054617274064882050
+    second: Inside GoldiHouse_7
+  - first:
+      213: 6540611398090214478
+    second: Inside GoldiHouse_8
+  - first:
+      213: 7312575749019535817
+    second: Inside GoldiHouse_9
+  - first:
+      213: 5388020108872900936
+    second: Inside GoldiHouse_10
+  - first:
+      213: -472390223991305192
+    second: Inside GoldiHouse_11
+  - first:
+      213: 6041976722977700587
+    second: Inside GoldiHouse_12
+  - first:
+      213: 7540864105330092868
+    second: Inside GoldiHouse_13
+  - first:
+      213: 9066656233426656896
+    second: Inside GoldiHouse_14
+  - first:
+      213: -6597468614349625906
+    second: Inside GoldiHouse_15
+  - first:
+      213: 5552050018802635023
+    second: Inside GoldiHouse_16
+  - first:
+      213: 10389258230146204
+    second: Inside GoldiHouse_17
+  - first:
+      213: 8425193153971571737
+    second: Inside GoldiHouse_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inside GoldiHouse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 1239
+        height: 871
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 369.5, y: 433.5}
+        - {x: 368.5, y: 435.5}
+        - {x: 355.5, y: 435.5}
+        - {x: 354.5, y: 434.5}
+        - {x: 355.5, y: 431.5}
+        - {x: 367.5, y: 431.5}
+      - - {x: -367.5, y: 420.5}
+        - {x: -365.5, y: 425.5}
+        - {x: -368.5, y: 427.5}
+        - {x: -372.5, y: 423.5}
+        - {x: -372.5, y: 421.5}
+        - {x: -370.5, y: 419.5}
+      - - {x: -175.5, y: 343.5}
+        - {x: -176.5, y: 346.5}
+        - {x: -181.5, y: 347.5}
+        - {x: -183.5, y: 344.5}
+        - {x: -180.5, y: 341.5}
+        - {x: -177.5, y: 341.5}
+      - - {x: 619.5, y: 206.5}
+        - {x: 574.5, y: 318.5}
+        - {x: -359.5, y: 318.5}
+        - {x: -451.5, y: 295.5}
+        - {x: -451.5, y: -360.5}
+        - {x: 619.5, y: -360.5}
+      - - {x: -616.5, y: -23.5}
+        - {x: -615.5, y: -19.5}
+        - {x: -615.5, y: -5.5}
+        - {x: -616.5, y: 0.5}
+        - {x: -619.5, y: 0.5}
+        - {x: -619.5, y: -24.5}
+      - - {x: -468.5, y: -115.5}
+        - {x: -470.5, y: -110.5}
+        - {x: -473.5, y: -110.5}
+        - {x: -474.5, y: -113.5}
+        - {x: -471.5, y: -117.5}
+      - - {x: -202.5, y: -382.5}
+        - {x: -206.5, y: -383.5}
+        - {x: -206.5, y: -392.5}
+        - {x: -207.18182, y: -393.5}
+        - {x: -211.5, y: -393.5}
+        - {x: -214.5, y: -398.5}
+        - {x: -214.5, y: -404.23334}
+        - {x: -221.5, y: -414.5}
+        - {x: -220.5, y: -435.5}
+        - {x: -169.5, y: -435.5}
+        - {x: -169.5, y: -427.5}
+        - {x: -180.5, y: -411.5}
+        - {x: -188.5, y: -419.5}
+        - {x: -188.5, y: -418.5}
+        - {x: -190.33333, y: -412.0833}
+        - {x: -187.5, y: -413.5}
+        - {x: -184.5, y: -413.5}
+        - {x: -181.5, y: -410.5}
+        - {x: -181.5, y: -392.5}
+        - {x: -185.5, y: -390.5}
+        - {x: -186.5, y: -390.5}
+        - {x: -188, y: -392}
+        - {x: -187.5, y: -390.5}
+        - {x: -186.5, y: -383.5}
+        - {x: -186.5, y: -374.5}
+        - {x: -187.5, y: -373.5}
+        - {x: -193.5, y: -373.5}
+        - {x: -196.5, y: -379.5}
+        - {x: -196.5, y: -388.5}
+        - {x: -199.5, y: -382.5}
+      - - {x: -191, y: -393.5}
+        - {x: -189.5, y: -393.5}
+        - {x: -190.04546, y: -395.4091}
+      - - {x: -9.5, y: -430.5}
+        - {x: -20.5, y: -413.5}
+        - {x: -28.5, y: -422.5}
+        - {x: -28.5, y: -424.5}
+        - {x: -32.5, y: -431.5}
+        - {x: -34.5, y: -431.5}
+        - {x: -29.5, y: -425.5}
+        - {x: -29.5, y: -400.5}
+        - {x: -30.5, y: -398.5}
+        - {x: -36.5, y: -398.5}
+        - {x: -41.5, y: -401.5}
+        - {x: -49.5, y: -398.5}
+        - {x: -63.5, y: -398.5}
+        - {x: -71.5, y: -409.5}
+        - {x: -74.5, y: -419.5}
+        - {x: -74.5, y: -435.5}
+        - {x: -9.5, y: -435.5}
+      - - {x: -92.5, y: -424.5}
+        - {x: -99.5, y: -413.5}
+        - {x: -138.5, y: -413.5}
+        - {x: -151.5, y: -429.5}
+        - {x: -151.5, y: -435.5}
+        - {x: -92.5, y: -435.5}
+      - - {x: -120.5, y: -430.5}
+        - {x: -120, y: -430}
+        - {x: -119.5, y: -430.5}
+      - - {x: 192.5, y: -432.5}
+        - {x: 189.5, y: -431.5}
+        - {x: 187.5, y: -433.5}
+        - {x: 188.5, y: -435.5}
+        - {x: 192.5, y: -435.5}
+      - - {x: -195.5, y: -391.5}
+        - {x: -193.5, y: -392.5}
+        - {x: -196.5, y: -392.5}
+        - {x: -196.5, y: -389.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b44bb3397669410800000000000000
+      internalID: 1483487009324682135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 88
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 27, y: -12}
+        - {x: 27, y: 21}
+        - {x: -27, y: 21}
+        - {x: -27, y: -7}
+        - {x: -16, y: -21}
+        - {x: 23, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7489466920c4aa50800000000000000
+      internalID: 6531556643636348026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 145
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1147cbf62bd996a20800000000000000
+      internalID: 3056147211851953169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 129
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95be16f353126f140800000000000000
+      internalID: 4753022969316502361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 164
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc76e93a0cfe63a0800000000000000
+      internalID: -6670116877237846822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_5
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 130
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6285105f053402400800000000000000
+      internalID: 297311590393403430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 167
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2154baa3e033f90800000000000000
+      internalID: -6975215752722443521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 147
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7633a1b340483090800000000000000
+      internalID: -8054617274064882050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 130
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cc905b96be4ca50800000000000000
+      internalID: 6540611398090214478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 84
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9027966ec7b7560800000000000000
+      internalID: 7312575749019535817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_10
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 128
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841e708fdb716ca40800000000000000
+      internalID: 5388020108872900936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_11
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 128
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c81a7189bb179f0800000000000000
+      internalID: -472390223991305192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 128
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beab34a51d969d350800000000000000
+      internalID: 6041976722977700587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_13
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 127
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ba1b953f786a860800000000000000
+      internalID: 7540864105330092868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_14
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 80
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e1afd9ecb33dd70800000000000000
+      internalID: 9066656233426656896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_15
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 127
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5e6e800451174a0800000000000000
+      internalID: -6597468614349625906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_16
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 128
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f019ee97318dc0d40800000000000000
+      internalID: 5552050018802635023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_17
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 128
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94a94ea9f8e42000800000000000000
+      internalID: 10389258230146204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside GoldiHouse_18
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 128
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c4782f88c4ce470800000000000000
+      internalID: 8425193153971571737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 014ccfd0ed75a734c99a4297d0c370fe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Inside GoldiHouse_0: 1483487009324682135
+      Inside GoldiHouse_1: 6531556643636348026
+      Inside GoldiHouse_10: 5388020108872900936
+      Inside GoldiHouse_11: -472390223991305192
+      Inside GoldiHouse_12: 6041976722977700587
+      Inside GoldiHouse_13: 7540864105330092868
+      Inside GoldiHouse_14: 9066656233426656896
+      Inside GoldiHouse_15: -6597468614349625906
+      Inside GoldiHouse_16: 5552050018802635023
+      Inside GoldiHouse_17: 10389258230146204
+      Inside GoldiHouse_18: 8425193153971571737
+      Inside GoldiHouse_2: 3056147211851953169
+      Inside GoldiHouse_3: 4753022969316502361
+      Inside GoldiHouse_4: -6670116877237846822
+      Inside GoldiHouse_5: 297311590393403430
+      Inside GoldiHouse_6: -6975215752722443521
+      Inside GoldiHouse_7: -8054617274064882050
+      Inside GoldiHouse_8: 6540611398090214478
+      Inside GoldiHouse_9: 7312575749019535817
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
